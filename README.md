@@ -49,9 +49,7 @@ The project focuses on providing a secure and user-friendly system for managing 
 
 To run the project locally:
 
-1. Clone the repository: git clone https://github.com/Vijayarajvijay/Password-Reset-FE
-Back End code :
-https://github.com/Vijayarajvijay/Password-Reset-BE
+1. Clone the repository: git clone https://github.com/SaranSJ10/password-reset-flow-task.g
 
 2. Navigate to the project directory and install 
 dependencies: npm install
